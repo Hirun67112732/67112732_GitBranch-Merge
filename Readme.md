@@ -20,3 +20,7 @@
     ![alt text](6.png)
     - กดเลือก branch → เลือก Create new branch ![alt text](7.png)
     ![alt text](8.png)
+    - เพิ่มโฟลเดอร์ `Test002` และวางไฟล์จากงาน Test002 (`Readme.md`, `myfunc.py`, `main.py`)
+    ![alt text](9.png)
+    - Commit และ Push ไปที่ GitHub  
+    ![alt text](10png)
