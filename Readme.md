@@ -31,5 +31,5 @@
     ![alt text](11.png)
 
 5. ทำการ merge Test002 เข้าไปที่ main
-    - ใช้วิธีการ merge ด้วย Terminal
+    - ใช้วิธีการ merge ด้วย Terminal โดยใช้ Git Command
     ![alt text](12.png)
