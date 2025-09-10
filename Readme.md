@@ -12,5 +12,5 @@
     - คัดลอกไฟล์จาก `Test001` (Readme.md, test.txt, test.py) ไปใส่ 67112732_GitBranch-Merge
     ![alt text](3.png)
     
-    - Commit และ Push ไปยัง branch `main`
+    - Commit และ Push ไปยัง branch `main` ใส่คำสั่งใน Terminal
     ![alt text](4.png)![alt text](5.png)
