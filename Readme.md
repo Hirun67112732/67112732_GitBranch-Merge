@@ -14,3 +14,9 @@
     
     - Commit และ Push ไปยัง branch `main` ใส่คำสั่งใน Terminal
     ![alt text](4.png)![alt text](5.png)
+
+3. เพิ่ม branch FromTest2  และเพิ่ม folder ย่อย Test002 แล้วนำข้อมูลจากงาน Test002 มาวาง
+    - เปิด Source Control
+    ![alt text](6.png)
+    - กดเลือก branch → เลือก Create new branch ![alt text](7.png)
+    ![alt text](8.png)
