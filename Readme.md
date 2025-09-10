@@ -24,3 +24,12 @@
     ![alt text](9.png)
     - Commit และ Push ไปที่ GitHub  
     ![alt text](10.png)
+
+4. เพิ่ม ไฟล์ myfunc2.py  ที่มีฟังก์ชันการดำเนินการ ลบ เลข 2 ชุด
+    - อยู่ในโฟลเดอร์ `Test002`
+    - เขียนฟังก์ชันการลบเลข 2 ชุด
+    ![alt text](11.png)
+
+5. ทำการ merge Test002 เข้าไปที่ main
+    - ใช้วิธีการ merge ด้วย Terminal
+    ![alt text](12.png)
