@@ -13,3 +13,4 @@
     ![alt text](3.png)
     
     - Commit และ Push ไปยัง branch `main`
+    ![alt text](image.png)![alt text](image-1.png)
