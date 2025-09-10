@@ -23,4 +23,4 @@
     - เพิ่มโฟลเดอร์ `Test002` และวางไฟล์จากงาน Test002 (`Readme.md`, `myfunc.py`, `main.py`)
     ![alt text](9.png)
     - Commit และ Push ไปที่ GitHub  
-    ![alt text](10png)
+    ![alt text](10.png)
