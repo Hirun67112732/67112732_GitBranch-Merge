@@ -4,5 +4,5 @@
 อธิบายการดำเนินการ
 1. สร้าง Repo ใหม่
  - สร้าง Repo ใหม่ใน Github
- ![alt text](image.png)
+ ![alt text](1.png)
  
